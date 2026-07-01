@@ -1,4 +1,4 @@
-# Edge-to-Cloud Heat Monitoring for Industrial Environments
+# Edge-to-Cloud Industrial Environment Management
 
 An IoT-based industrial monitoring system that collects real-time temperature and gas data using the **LPC2148 (ARM7TDMI-S)** microcontroller and uploads it to the **ThingSpeak** cloud platform through the **ESP-01 (ESP8266)** Wi-Fi module.
 
